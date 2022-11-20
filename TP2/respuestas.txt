@@ -1,0 +1,1 @@
+A simple vista podemos ver que los comensales no consumen las hamburguesas de manera equitativa. Esta falla se conoce como Race Conditions.
